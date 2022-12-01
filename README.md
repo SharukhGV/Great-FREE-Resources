@@ -11,8 +11,7 @@ https://www.gimp.org/
 
 ## 3 Reliable Office Suites that are FREE to install 
 ONLY OFFICE - Nice Interface 
-https://www.onlyoffice.com/download-desktop.aspx 
-
+https://www.onlyoffice.com/
 
 Libre Office – Best (Very Reliable)
 https://www.libreoffice.org/download/download/ 
