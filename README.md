@@ -1,4 +1,4 @@
-# Some Free Open Source Software that is very useful if you cannot afford Microsoft Word, Photoshop, etc.
+# Some Free / Open Source Software that is very useful if you cannot afford Microsoft Word, Photoshop, etc.
 Here is a List:
 
 ## Free Open Source Video Editor
