@@ -60,7 +60,7 @@ Desktops/Laptops/Tablets or Mobile Phones. Different user interfaces are availab
 
 
 
-#### FOR PHONES: UBPORTS (Orignially from Canonical)
+#### FOR PHONES: UBPORTS (Originally from Canonical)
 
 Website Ubuntu Touch Operating System for Select Phones:
 
