@@ -86,5 +86,8 @@ https://www.microsoft.com/software-download/windows11
 
 #### Website Windows 10: 
 
-https://www.microsoft.com/en-us/software-download/windows10ISO 
+
+https://www.microsoft.com/en-us/software-download/windows10ISO
+
+
 Windows 11 – must have windows 10 installed before installing windows 11  otherwise will give compatibility error. Sometimes a computer may just not be compatible at all. Worth a try. 
