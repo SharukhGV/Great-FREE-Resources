@@ -68,7 +68,9 @@ Desktops/Laptops/Tablets or Mobile Phones. Different user interfaces are availab
 
 Website Ubuntu Touch Operating System for Select Phones:
 
-https://ubports.com/ 
+
+https://ubports.com/
+
 
 Tired of being dependent on iOS and Android? With Ubuntu Touch, you can take back  your freedom of choice and privacy. 
 Keep your data private with an operating system that's fully secure. Designed to make everyone feel at home. 
