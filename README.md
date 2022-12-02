@@ -50,7 +50,9 @@ Ubuntu flavours offer a unique way to experience Ubuntu, each with their own cho
 #### Linux Mint
 
 Website: 
-https://linuxmint.com/ 
+
+https://linuxmint.com/
+
 
 Linux Mint is an operating system for desktop and laptop computers. It is designed to  work 'out of the box' and comes fully equipped with the apps most people need. 
 
