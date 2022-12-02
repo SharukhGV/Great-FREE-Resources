@@ -59,7 +59,7 @@ Linux Mint is an operating system for desktop and laptop computers. It is design
 #### Manjaro
 
 Website: 
-https://manjaro.org/download/ 
+https://manjaro.org/ 
 
 Manjaro is an open source operating system that can be installed on  
 Desktops/Laptops/Tablets or Mobile Phones. Different user interfaces are available.
